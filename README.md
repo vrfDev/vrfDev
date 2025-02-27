@@ -15,7 +15,7 @@
  ## <img src="https://media.tenor.com/oYgY0td9TrUAAAAi/internet-webcore.gif" width="40"> **Language & Tools:** 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=css,python,git,figma,ps,pr,vscode,rider,figma" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scacchetti07&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vrfDev" "/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vrfDev" "/>
     <br>
 
    <!-- redes sociais -->
