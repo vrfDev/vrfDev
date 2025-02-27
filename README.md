@@ -7,7 +7,7 @@
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 - 🌱 Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
 - ⚡ One fact **I am fluent in English and have an intermediate level of Spanish.I love lerning new lenguages!!**
-- ⚡ Curiosity **I have a dark channel on Tiktok, where I post videos without appearing**
+- ⚡ Curiosity **I have a dark channel on Tiktok, where I post videos without appearing, and teach programming to viewers.**
 - ⚡ Second Curiosity **I'm an entrepreneur**
 
    <!-- Language e tools -->
