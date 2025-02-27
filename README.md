@@ -21,8 +21,7 @@
    <!-- redes sociais -->
 
 ## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30" align="left"> **Follow Me:** 
-
-
+<div align="center">
 <a href="mailto:vitramostc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
