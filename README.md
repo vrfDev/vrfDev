@@ -20,8 +20,8 @@
 
    <!-- redes sociais -->
 
-## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Follow Me:** 
-<p align="center">
+## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30" align="left"> **Follow Me:** 
+
 
 <a href="mailto:vitramostc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
