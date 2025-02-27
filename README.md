@@ -16,10 +16,10 @@
 
 ## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Reach out Me:** 
 <p align="center">
-<a href="mailto:luiscacchetti07@gmail.com">
+<a href="mailto:vitramostc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://www.linkedin.com/in/lfscacchetti/" target="_blank">
+<a href="https:www.linkedin.com/in/vitramostc" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 </p>
