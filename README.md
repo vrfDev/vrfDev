@@ -31,7 +31,11 @@
    <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ logo"  />
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scacchetti07&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vrfDev" "/>
+
+<div style="text-align: center;" align="center">
+  <h3> GITHUB STATS 📈</h3>
+  <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vrfDev" "/>
     <br>
 
 
