@@ -12,16 +12,25 @@
 
    <!-- Language e tools -->
 
- ## <img src="https://media.tenor.com/oYgY0td9TrUAAAAi/internet-webcore.gif" width="40"> **Languages:** 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=css,python,git,figma,ps,pr,vscode,rider,figma" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vrfDev" "/>
-    <br>
-    ## <img src="https://media.tenor.com/oYgY0td9TrUAAAAi/internet-webcore.gif" width="40"> **Tools:** 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=css,python,git,figma,ps,pr,vscode,rider,figma" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vrfDev" "/>
-    <br>
+ <h3 aling="left">🤓My lenguages~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="8" />
+</div>
+
+<h3 aling="left">🖥️My Tools~</h3>
+<div aling="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VsCode logo"  />
+   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ logo"  />
+</div>
 
    <!-- redes sociais -->
 
