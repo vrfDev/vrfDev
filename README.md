@@ -21,7 +21,7 @@
 
 <h3 aling="left">🖥️My Tools~</h3>
 <div aling="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pc" /> <br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" /> <br><br>
   <img width="8" />   
 </div>
 
