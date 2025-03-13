@@ -15,17 +15,14 @@
  <h3 aling="left">🤓My lenguages~</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=cs,python,mongodb,git,figma,ps,pr,vscode,rider" /> <br><br>
+ <img src="https://skillicons.dev/icons?i=cs,python,html5,git,java" /> <br><br>
   <img width="8" />
 </div>
 
 <h3 aling="left">🖥️My Tools~</h3>
 <div aling="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VsCode logo"  />
-   <img width="8" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VsCode logo"  />
-   <img width="8" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode,pc" /> <br><br>
+  <img width="8" />   
 </div>
 
 <div style="text-align: center;" align="center">
