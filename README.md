@@ -15,7 +15,7 @@
  <h3 aling="left">🤓My lenguages~</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=cs,python,html,git,java" /> <br><br>
+ <img src="https://skillicons.dev/icons?i=python,html,java,css" /> <br><br>
   <img width="8" />
 </div>
 
