@@ -37,10 +37,10 @@
   </a>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vrfDev&theme=default&background=000000&ring=800080&fire=800080&currStreakLabel=800080&sideNums=DDA0DD&dates=DDA0DD&sideLabels=DDA0DD" alt="Streak Stats" width="49%" />
-</div>
+  <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vrfDev" "/>
     <br>
-
+</div>
 
    <!-- redes sociais -->
 
