@@ -32,7 +32,7 @@
 
   <!-- Streak Stats -->
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vrfDev" "/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="vrfDev" "/>
     <br>
 </div>
 
