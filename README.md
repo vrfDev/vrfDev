@@ -6,7 +6,7 @@
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 - 🌱 Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
 - ⚡ One fact **I am learn English and have an intermediate level of Spanish!!**
-- ⚡ Second Curiosity **I'have an employ**
+- ⚡ Second Curiosity **I'have a company**
 
    <!-- Language e tools -->
 
