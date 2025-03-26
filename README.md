@@ -4,9 +4,9 @@
 
  <!-- GitHub Stats -->
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
-- 🌱 Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
-- ⚡ One curiosity **I Like to use Linux System**
-- ⚡ Second Curiosity **I'm doing a bigg project**
+- 👨🏻‍💻 Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
+- ⚡ One curiosity: **I Like to use Linux System**
+- ⚡ Second Curiosity: **I'm doing a bigg project* 🤫*
 
    <!-- Language e tools -->
 
