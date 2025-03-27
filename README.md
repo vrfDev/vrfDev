@@ -1,7 +1,6 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=800080&lines=Welcome There!!+👋;+I'm+vrfDev!" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=800080&lines=Welcome+There!+👋;+I'm+Vito+Ramos!;+Nice+to+meet+you+😊" />
 </h1>
-
 
  <!-- GitHub Stats -->
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
