@@ -1,6 +1,4 @@
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppimns&weight=600&size=40&pause=1000&color=7A348DD7&center=true&vCenter=true&width=435&lines=Welcome+There+!!;I'm+vrfDev)](https://git.io/typing-svg)
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppimns&weight=600&size=40&pause=1000&color=7A348DD7&vCenter=true&width=450&lines=Welcome+There+!!;I'm+vrfDev)](https://git.io/typing-svg)
 
  <!-- GitHub Stats -->
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
