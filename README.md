@@ -13,7 +13,7 @@
  <h3 aling="left">🤓My lenguages~</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,linux,cpp,c" /> <br><br>
+ <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,figma,cpp,c" /> <br><br>
   <img width="8" />
 </div>
 
