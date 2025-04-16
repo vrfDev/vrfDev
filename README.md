@@ -10,7 +10,7 @@
 
    <!-- Language e tools -->
 
- <h3 aling="left">🤓My lenguages~</h3>
+ <h3 aling="left">🤓My languages~</h3>
 
 <div align="left">
  <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,figma,cpp,c" /> <br><br>
