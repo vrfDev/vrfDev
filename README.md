@@ -19,7 +19,7 @@
 
 <h3 aling="left">🖥️My Tools~</h3>
 <div aling="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,vite,figma" /> <br><br>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,figma" /> <br><br>
   <img width="8" />   
 </div>
 
