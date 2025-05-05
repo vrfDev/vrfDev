@@ -13,13 +13,13 @@
  <h3 aling="left">🤓My languages~</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,cpp,c" /> <br><br>
+ <img src="https://skillicons.dev/icons?i=git,html,css,js,cpp,c" /> <br><br>
   <img width="8" />
 </div>
 
 <h3 aling="left">🖥️My Tools~</h3>
 <div aling="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,vite,figma" /> <br><br>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,vite,figma" /> <br><br>
   <img width="8" />   
 </div>
 
