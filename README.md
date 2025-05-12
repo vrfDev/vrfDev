@@ -13,7 +13,7 @@
  <h3 aling="left">🤓My languages~</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=git,html,css,js,cpp,c" /> <br><br>
+ <img src="https://skillicons.dev/icons?i=git,html,css,js,c,python" /> <br><br>
   <img width="8" />
 </div>
 
