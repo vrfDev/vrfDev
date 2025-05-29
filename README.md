@@ -27,10 +27,10 @@
 <br>
 
 <!-- GitHub Stats -->
+## <img src="https://media.tenor.com/gzUCcAzk51YAAAAi/gemoi.gif" width="30"> **Github Stats**
 <div align="center">
-  <h3>📈 GITHUB STATS</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="vrfDev" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrfDev&layout=donut&theme=tokyonight&hide_border=true" title="Minha Stack" width="325"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=vrfDev&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" title="My Stats" />
 </div>
 
 <br>
