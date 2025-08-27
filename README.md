@@ -6,7 +6,7 @@
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:**
 
 - 👨🏻‍💻 Now I'm a student of Software Engineering at **FIAP - Faculdade de Informática e Administração Paulista**
-- ⚡ One curiosity: **I like to use Linux systems**
+- ⚡ One curiosity: **I love Data science**
 - ⚡ Second curiosity: **I'm doing a big project 🤫**
 
 <!-- Languages and Tools -->
