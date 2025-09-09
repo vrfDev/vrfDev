@@ -46,18 +46,16 @@
 
 
 <!-- Redes Sociais -->
-## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Follow Me:**
+## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Connect with Me**
 
 <div align="center">
   <a href="mailto:vitramosf@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=0d1117&style=for-the-badge&logo=gmail&logoColor=white&labelColor=E02C2C" alt="Gmail"/>
   </a>
-
   <a href="https://www.instagram.com/vramosf_06/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=0d1117&style=for-the-badge&logo=instagram&logoColor=white&labelColor=E02C2C" alt="Instagram"/>
   </a>
-
   <a href="https://www.linkedin.com/in/vitor-ramos-tech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0d1117&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E02C2C" alt="LinkedIn"/>
   </a>
 </div>
