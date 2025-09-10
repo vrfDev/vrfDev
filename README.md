@@ -29,8 +29,6 @@
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-
-<h3 align="center">📊 Estatísticas do GitHub</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=vrfDev&show_icons=true&include_all_commits=true&count_private=true&title_color=E02C2C&icon_color=E02C2C&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Estatísticas do GitHub de vrfDev"/>
