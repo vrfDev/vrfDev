@@ -14,7 +14,7 @@
 
 ### 🤓 My Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,r,aiscript,js,react,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,flask,r,js,react,docker,postman,docker,git" />
 </div>
 
 <br>
