@@ -47,11 +47,8 @@
 ## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Connect with Me**
 
 <div align="center">
-  <a href="mailto:vitramosf@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=vitramosf@gmail.com&su=Contato%20via%20GitHub" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=0d1117&style=for-the-badge&logo=gmail&logoColor=white&labelColor=E02C2C" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/vramosf_06/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=0d1117&style=for-the-badge&logo=instagram&logoColor=white&labelColor=E02C2C" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/vitor-ramos-tech/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0d1117&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E02C2C" alt="LinkedIn"/>
