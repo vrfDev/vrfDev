@@ -30,10 +30,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrfDev&theme=dark&hide_border=true&stroke=E02C2C&background=0d1117&ring=E02C2C" alt="Sequência de Contribuições">
-   </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=vrfDev&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&text_color=white&cache_bust=5" 
+      alt="Sequência de Contribuições">
+  </a>
 </div>
+
 
 <!-- Redes Sociais -->
 ## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Connect with Me**
