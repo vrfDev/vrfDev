@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" width="60" alt="Giratina"/>
 </div>
 
+
+
 <h1>Hi!</h1>
 
 - 👋 I'm **Vitor Ramos**, a **Software Engineering student at FIAP** and **Automation Intern**, focused on building practical automation solutions and learning backend development.
