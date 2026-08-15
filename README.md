@@ -76,12 +76,12 @@ Currently:
 <h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vrfDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&ring=8A2BE2&fire=8A2BE2" height="220" alt="streak graph" />
+  <img src="https://github-readme-streak-stats-eight-blond.vercel.app?user=vrfDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&ring=8A2BE2&fire=8A2BE2" height="220" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrfDev&show_icons=true&theme=dark&hide_border=false&border_radius=5&ring_color=8A2BE2&icon_color=8A2BE2&title_color=8A2BE2" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrfDev&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=6" height="150" alt="languages" />
+  <img src="https://github-readme-stats-six-beta-17.vercel.app/api?username=vrfDev&show_icons=true&theme=dark&hide_border=false&border_radius=5&ring_color=8A2BE2&icon_color=8A2BE2&title_color=8A2BE2" height="150" alt="stats" />
+  <img src="https://github-readme-stats-six-beta-17.vercel.app/api/top-langs/?username=vrfDev&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=6" height="150" alt="languages" />
 </div>
 
 ##
