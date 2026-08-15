@@ -6,15 +6,11 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" width="60" alt="Giratina"/>
 </div>
 
-
-
 <h1>Hi!</h1>
 
 - 👋 I'm **Vitor Ramos**, a **Software Engineering student at FIAP** and **Automation Intern**, focused on building practical automation solutions and learning backend development.
 
-- 🐍 I work mainly with **Python** and **Flask**, alongside **R** for data-related tasks and **JavaScript/React** for frontend work.
-
-- 🚀 Currently developing a bigger personal project — details coming soon 🤫
+- 🚀 Currently developing a bigger personal project 🤫
 
 - 📬 Always open to connect and talk about automation, backend or dev in general!
 
@@ -22,6 +18,7 @@
 
 ```yaml
 Currently:
+
   🌱 Studying    : Software Engineering @ FIAP
   🎯 Focused on  : Automation · Backend Development
   💼 Working at  : One of the world's largest insurance brokerages
@@ -78,12 +75,8 @@ Currently:
 <h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight-blond.vercel.app?user=vrfDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&ring=8A2BE2&fire=8A2BE2" height="220" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-six-beta-17.vercel.app/api?username=vrfDev&show_icons=true&theme=dark&hide_border=false&border_radius=5&ring_color=8A2BE2&icon_color=8A2BE2&title_color=8A2BE2" height="150" alt="stats" />
-  <img src="https://github-readme-stats-six-beta-17.vercel.app/api/top-langs/?username=vrfDev&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=6" height="150" alt="languages" />
+  <img src="https://github-readme-stats-six-beta-17.vercel.app/api?username=vrfDev&show_icons=true&theme=dark&hide_border=false&border_radius=5&ring_color=8A2BE2&icon_color=8A2BE2&title_color=8A2BE2&cache_bust=1" height="150" alt="stats" />
+  <img src="https://github-readme-stats-six-beta-17.vercel.app/api/top-langs/?username=vrfDev&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=6&cache_bust=1" height="150" alt="languages" />
 </div>
 
 ##
