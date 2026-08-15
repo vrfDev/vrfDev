@@ -1,51 +1,91 @@
-<h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ff0000&lines=Welcome+There!+👋;+I'm+Vitor+Ramos!" />
-</h1>
-
-<!-- Perfil Stats -->
-## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:**
-
-- 👨🏻‍💻 Now I'm a student of Software Engineering at **FIAP - Faculdade de Informática e Administração Paulista**
-- ⚡ One curiosity: **Automation Intern 🚀**
-- ⚡ Second curiosity: **I'm doing a big project 🤫**
-
-<!-- Languages and Tools -->
-<br>
-
-### 🤓 My Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,r,js,react" />
-</div>
-
-<br>
-
-### 🖥️ My Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,mysql,figma" />
-</div>
-
-<br>
-
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=vrfDev&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&text_color=white&cache_bust=5" 
-      alt="Sequência de Contribuições">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=%F0%9F%91%8B+Hey%2C+I'm+Vitor+Ramos;Software+Engineering+Student;Automation+%26+Backend+Enthusiast" alt="Typing SVG" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="60" alt="Gengar"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="60" alt="Charizard"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" width="60" alt="Giratina"/>
 </div>
 
+<h1>Hi!</h1>
 
-<!-- Redes Sociais -->
-## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Connect with Me**
+- 👋 I'm **Vitor Ramos**, a **Software Engineering student at FIAP** and **Automation Intern**, focused on building practical automation solutions and learning backend development.
 
-<div align="center">
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=vitramosf@gmail.com&su=Contato%20via%20GitHub" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=0d1117&style=for-the-badge&logo=gmail&logoColor=white&labelColor=E02C2C" alt="Gmail"/>
-  </a>
+- 🐍 I work mainly with **Python** and **Flask**, alongside **R** for data-related tasks and **JavaScript/React** for frontend work.
+
+- 🚀 Currently developing a bigger personal project — details coming soon 🤫
+
+- 📬 Always open to connect and talk about automation, backend or dev in general!
+
+##
+
+```yaml
+Currently:
+  🌱 Studying    : Software Engineering @ FIAP
+  🎯 Focused on  : Automation · Backend Development
+  💼 Working at  : One of the world's largest insurance brokerages
+  📍 Based in    : São Paulo, Brazil
+```
+
+##
+
+<div align="left">
   <a href="https://www.linkedin.com/in/vitor-ramos-tech/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0d1117&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E02C2C" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:vitramosf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
+
+##
+
+<h1>Tools & Stack 💻</h1>
+
+**Languages**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+</div>
+
+<br/>
+
+**Environment & Tools**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+</div>
+
+##
+
+<h3 align="left">🔥 My Stats:</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vrfDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&ring=8A2BE2&fire=8A2BE2" height="220" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrfDev&show_icons=true&theme=dark&hide_border=false&border_radius=5&ring_color=8A2BE2&icon_color=8A2BE2&title_color=8A2BE2" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrfDev&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=6" height="150" alt="languages" />
+</div>
+
+##
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20"/>
+</p>
