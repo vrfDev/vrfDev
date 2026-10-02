@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages & Frameworks</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,r,html,css,js,typescript,react,tailwind,java,spring,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,flask,r,html,css,js,typescript,react,tailwind,java" />
 </div>
 
 <h3 align="left">Tools</h3>
