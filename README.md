@@ -6,24 +6,29 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" width="60" alt="Giratina"/>
 </div>
 
-<h1>Hi!</h1>
+<h1>About Me:</h1>
 
 - 👋 I'm **Vitor Ramos**, a **Software Engineering student at FIAP** and **Automation Intern**, focused on building practical automation solutions and learning backend development.
 
-- 🚀 Currently developing a bigger personal project 🤫
+- 🚀 Deepening my knowledge in LLMs, AI Agents and data, and how they can make real processes smarter
 
 - 📬 Always open to connect and talk about automation, backend or dev in general!
 
 ##
 
-```yaml
-Currently:
+<h1>Tools & Stack 💻</h1>
 
-  🌱 Studying    : Software Engineering @ FIAP
-  🎯 Focused on  : Automation · Backend Development
-  💼 Working at  : One of the world's largest insurance brokerages
-  📍 Based in    : São Paulo, Brazil
-```
+
+<h3 align="left">Languages & Frameworks</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,r,html,css,js,typescript,react,tailwind,java,spring,postgres " />
+</div>
+
+<h3 align="left">Tools</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,docker,postman,mysql"/>
+</div>
+
 
 ##
 
@@ -34,51 +39,6 @@ Currently:
   <a href="mailto:vitramosf@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-</div>
-
-##
-
-<h1>Tools & Stack 💻</h1>
-
-**Languages**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-</div>
-
-<br/>
-
-**Environment & Tools**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-</div>
-
-##
-
-<h3 align="left">🔥 My Stats:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats-six-beta-17.vercel.app/api?username=vrfDev&show_icons=true&theme=dark&hide_border=false&border_radius=5&ring_color=8A2BE2&icon_color=8A2BE2&title_color=8A2BE2&cache_bust=1" height="150" alt="stats" />
-  <img src="https://github-readme-stats-six-beta-17.vercel.app/api/top-langs/?username=vrfDev&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=6&cache_bust=1" height="150" alt="languages" />
 </div>
 
 ##
