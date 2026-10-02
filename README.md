@@ -6,31 +6,27 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" width="60" alt="Giratina"/>
 </div>
 
-<h1>About Me:</h1>
+## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:**
 
 - 👋 I'm **Vitor Ramos**, a **Software Engineering student at FIAP** and **Automation Intern**, focused on building practical automation solutions and learning backend development.
+- 🚀 Deepening my knowledge in **LLMs**, **AI Agents** and **data**, and how they can make real processes smarter.
+- 📬 Always open to connect and talk about **automation**, **backend** or **dev** in general!
 
-- 🚀 Deepening my knowledge in LLMs, AI Agents and data, and how they can make real processes smarter
+---
 
-- 📬 Always open to connect and talk about automation, backend or dev in general!
-
-##
-
-<h1>Tools & Stack 💻</h1>
-
+## Tools & Stack 💻
 
 <h3 align="left">Languages & Frameworks</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,r,html,css,js,typescript,react,tailwind,java,spring,postgres " />
+  <img src="https://skillicons.dev/icons?i=python,flask,r,html,css,js,typescript,react,tailwind,java,spring,postgres" />
 </div>
 
 <h3 align="left">Tools</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,docker,postman,mysql"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,docker,postman,mysql" />
 </div>
 
-
-##
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-ramos-tech/" target="_blank">
@@ -41,8 +37,8 @@
   </a>
 </div>
 
-##
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20" alt="Poké Ball"/>
 </p>
